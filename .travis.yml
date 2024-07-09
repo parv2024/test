@@ -1,6 +1,0 @@
-arch: amd64
-os: linux
-
-script
--echo "parv is a boy"
--arch
