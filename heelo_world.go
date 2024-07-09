@@ -1,7 +1,7 @@
 // First Go program
 package main
  
-import "fmt";
+import "fmt"
  
 // Main function
 func main() {
